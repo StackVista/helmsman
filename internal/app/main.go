@@ -9,7 +9,7 @@ const (
 	appVersion         = "v3.4.6"
 	tempFilesDir       = ".helmsman-tmp"
 	defaultContextName = "default"
-	resourcePool       = 10
+	resourcePool       = 1
 )
 
 var (
